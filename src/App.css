@@ -28,3 +28,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
+.search-button:hover{
+  font-weight: bold;
+}
